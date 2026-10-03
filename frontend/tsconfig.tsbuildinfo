@@ -1,0 +1,1 @@
+{"root":["./src/app.test.tsx","./src/app.tsx","./src/main.tsx","./src/testsetup.ts","./src/vite-env.d.ts","./src/api/client.ts","./src/api/types.ts","./src/components/audienceform.tsx","./src/components/conditioneditor.tsx","./src/components/resultspanel.tsx","./src/hooks/useaudiencepreview.ts","./vite.config.ts"],"version":"5.9.3"}
