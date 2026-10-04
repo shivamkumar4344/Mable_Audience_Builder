@@ -14,4 +14,4 @@ I reviewed the generated code, adjusted implementation details, and ran the back
 
 ## My notes
 
-I used Claude as a thinking partner for this assignment: to clarify the requirements, plan the implementation, sketch the high-level design, and sanity-check choices such as using SQLite with a seed script for synthetic data. I wrote and reviewed the code myself, and I made the final decisions on the architecture, the rule-to-SQL approach, and the API shape. The main lesson was that AI is most useful for breaking down the problem and checking edge cases, but I still had to verify everything by running and testing it myself.
+I used Claude as a thinking partner for this assignment: to clarify the requirements, plan the implementation, sketch the high-level design, and sanity-check choices such as using SQLite with a seed script for synthetic data. I reviewed the code myself, and I made the final decisions on the architecture, the rule-to-SQL approach, and the API shape. The main lesson was that AI is most useful for breaking down the problem and checking edge cases, but I still had to verify everything by running and testing it myself.
